@@ -1,0 +1,10 @@
+ 
+[submodule "backend"]
+	path = backend
+	url = https://github.com/omondijeff/somocore-backend.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/omondijeff/somocore-mobile.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/omondijeff/somocore-dashboard.git
